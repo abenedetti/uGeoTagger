@@ -34,3 +34,12 @@
  <li type="square">update: displayed the creation timestamp in the uTester's card</li>
 </ul></p2>
 </p>
+<br>
+<p style=" font-size:14px; text-align:justify;">
+20th of march 2018&nbsp;&nbsp;
+<b>version:</b> 1.4
+<ul style="padding-left:5em">
+ <li type="square">fix: corrected the linkedin url in the utester card</li> 
+</ul></p2>
+</p>
+
