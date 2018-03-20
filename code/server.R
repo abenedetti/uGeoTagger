@@ -92,7 +92,7 @@ uTesterHTML <- function(userData, country_code, timestamp) {
        }
     
     if (!is.null(userData$social_network_urls$linkedin)) {
-        content <- paste0(content, "<a href='",userData$social_network_urls$linkedin,"' target='_blank' alt='linkedin' title='Linked In'><i class='fa fa-linkedin' aria-hidden='true'></i></a>&nbsp;&nbsp;")
+        content <- paste0(content, "<a href='https://",userData$social_network_urls$linkedin,"' target='_blank' alt='linkedin' title='Linked In'><i class='fa fa-linkedin' aria-hidden='true'></i></a>&nbsp;&nbsp;")
        }
     
     if (!is.null(userData$website) & userData$website != "") {
