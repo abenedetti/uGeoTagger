@@ -10,6 +10,7 @@ When clicking the submit button, the app will give a feedback on the outcome of 
 
 The entire process is shown <a style="text-decoration: underline;" href="http://youtu.be/o9mwQ_KLYAE?hd=1" target="_blank">in this video</a>.
 
+Currently the deletion feature is not available. If you wish to remove your detail card, just let me know by dropping a comment on the <a style="text-decoration: underline;" href="https://www.utest.com/articles/ugeotagger-guess-from-where-we-are" target="_blank">project article here</a>.
 
 <br>
 <table style="margin: 0 auto;">
