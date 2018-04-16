@@ -50,3 +50,11 @@
  <li type="square">update: added how to remove a uTester card on the help section</li> 
 </ul></p2>
 </p>
+<br>
+<p style=" font-size:14px; text-align:justify;">
+16th of april 2018&nbsp;&nbsp;
+<b>version:</b> 1.6
+<ul style="padding-left:5em">
+ <li type="square">fix: new correction of the linkedin url</li> 
+</ul></p2>
+</p>
