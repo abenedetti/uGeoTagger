@@ -58,3 +58,11 @@
  <li type="square">fix: new correction of the linkedin url</li> 
 </ul></p2>
 </p>
+<br>
+<p style=" font-size:14px; text-align:justify;">
+26th of june 2018&nbsp;&nbsp;
+<b>version:</b> 1.7
+<ul style="padding-left:5em">
+ <li type="square">update: added new id & platform id tags in the <i>Stats</i> tab</li> 
+</ul></p2>
+</p>

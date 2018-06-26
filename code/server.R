@@ -72,7 +72,7 @@ nearest_coord = function(inputCoords) {
 uTesterHTML <- function(userData, country_code, timestamp) {
   
   #debug user data
-  #userData <- fromJSON('https://www.utest.com/api/v1/users/Jeremiah')
+  #userData <- fromJSON('https://www.utest.com/api/v1/users/aspegnol')
   #print(paste0('http://www.crwflags.com/fotw/images/',substr(country_code, 1, 1),'/',country_code,'.gif'))
   
     content <- paste0("<link href='http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css' rel='stylesheet'>",
@@ -316,6 +316,17 @@ uTesterHTML <- function(userData, country_code, timestamp) {
                           "<tr>",
                             "<td><b>Test cycles:</b></td>",
                             "<td style = 'padding-left: 30px;'>",userData$site_stats$test_cycles,"</td>",
+                          "</tr>",
+                        "</table>",
+                        "<hr>",
+                        "<table style='font-size: 1.2em; margin-left:auto; margin-right:auto;'>",
+                          "<tr>",
+                            "<td><b>Id:</b></td>",
+                            "<td style = 'padding-left: 30px;'>",userData$id,"</td>",
+                          "</tr>",
+                          "<tr>",
+                            "<td><b>Platform Id:</b></td>",
+                            "<td style = 'padding-left: 30px;'>",userData$platform_id,"</td>",
                           "</tr>",
                         "</table>",
                       "<hr>",
