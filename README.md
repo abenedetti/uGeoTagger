@@ -2,7 +2,7 @@
 uGeoTagger is an application that let you visualize uTester's profiles on the world map.
 The project is being built in [R](https://www.r-project.org) under [shiny apps](https://www.shinyapps.io) framework, and uses [MongoDB](https://www.mongodb.com) for storing data.
 
-uGeoTagger is available [here](http://apps.alessiobenedetti.com/shiny/uGeoTagger/).
+uGeoTagger is available [here](https://abenedetti.shinyapps.io/uGeoTagger/).
 
 ![background](code/uGeoTagger_bckgd.jpg)
 
