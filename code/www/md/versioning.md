@@ -66,3 +66,12 @@
  <li type="square">update: added new id & platform id tags in the <i>Stats</i> tab</li> 
 </ul></p2>
 </p>
+<br>
+<p style=" font-size:14px; text-align:justify;">
+20th of october 2019&nbsp;&nbsp;
+<b>version:</b> 1.8
+<ul style="padding-left:5em">
+ <li type="square">migrated back on shinyapps.io</li> 
+ <li type="square">moved to mongoDB Atlas from mlab</li> 
+</ul></p2>
+</p>

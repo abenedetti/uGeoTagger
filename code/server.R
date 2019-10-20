@@ -16,8 +16,7 @@ library(shinyjs)
 library(V8)
 
 # set database connections parameters
-mongoDBConnection <- fromJSON('www/doc/mongodbDEV.json')
-#mongoDBConnection <- fromJSON('www/doc/mongodbPROD.json')
+mongoDBConnection <- fromJSON('www/doc/ATLASmongodb.json')
 dbName <- mongoDBConnection$dbName
 dbCollection <- mongoDBConnection$dbCollection
 dbUrl <- mongoDBConnection$dbUrl
